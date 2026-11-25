@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PromptCut</string>
+    <string name="studio_tagline">Edición inteligente por prompt</string>
+    <string name="action_pick_video">Elegir video grabado</string>
+    <string name="action_change_video">Cambiar video</string>
+    <string name="action_apply_ai">Editar con IA</string>
+    <string name="action_export_mp4">Exportar MP4</string>
+    <string name="action_cancel_export">Cancelar exportación</string>
+    <string name="action_reset_edits">Restablecer</string>
+    <string name="action_share_video">Compartir</string>
+    <string name="action_play_exported">Reproducir</string>
+    <string name="hero_title">Transforma tus videos con una frase</string>
+    <string name="hero_subtitle">Selecciona un clip de tu galería y describe el estilo, ritmo, cortes, color o subtítulo que deseas. Gemini analiza el video y aplica la edición automáticamente.</string>
+    <string name="tab_ai_prompt">Prompt IA</string>
+    <string name="tab_manual_adjust">Ajustes</string>
+    <string name="tab_exports">Exportados</string>
+    <string name="prompt_label">Describe tu edición</string>
+    <string name="prompt_placeholder">Ej: Hazlo más cinematográfico y cálido, recorta los primeros 2 segundos, velocidad 1.2x y agrega título «Día en la ciudad»</string>
+    <string name="quick_prompts_title">Ideas rápidas</string>
+    <string name="ai_status_analyzing">Analizando fotogramas del video…</string>
+    <string name="ai_status_generating">Generando plan de edición con Gemini…</string>
+    <string name="export_status_rendering">Renderizando MP4 (%1$d%%)…</string>
+    <string name="export_success_saved">Video guardado en Películas/PromptCut</string>
+    <string name="exports_empty_title">Aún no hay videos exportados</string>
+    <string name="exports_empty_subtitle">Aplica un prompt con IA o ajusta el clip manualmente y pulsa Exportar MP4.</string>
+    <string name="cd_studio_hero">Arte de estudio cinematográfico</string>
+    <string name="cd_play_pause">Reproducir o pausar</string>
+    <string name="cd_mute_toggle">Silenciar o activar audio</string>
+    <string name="cd_pick_video">Seleccionar video</string>
+    <string name="cd_ai_spark">Edición con inteligencia artificial</string>
+</resources>
